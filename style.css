@@ -69,7 +69,7 @@ body {
 
 /* HERO */
 .Accueil {
-  background: url("images/gestion de projet.jpg") center/cover fixed;
+  background: url("images/gestion-de-projet.jpg") center/cover fixed;
   color: +rgb(255, 255, 255);
 }
 
@@ -138,10 +138,10 @@ color: red;
   background-position: center;
 }
 
-.analyse { background-image: url("assets/images/analyse.jpg"); }
-.planning { background-image: url("assets/images/plannings.jpg"); }
-.budget { background-image: url("assets/images/budget.jpg"); }
-.innovation { background-image: url("assets/images/innovation.jpg"); }
+.analyse { background-image: url("images/analyse.jpg"); }
+.planning { background-image: url("images/plannings.jpg"); }
+.budget { background-image: url("images/budget.jpg"); }
+.innovation { background-image: url("images/innovation.jpg"); }
 
 /* CARDS */
 .cards {
